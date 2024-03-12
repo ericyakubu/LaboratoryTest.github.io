@@ -31,6 +31,7 @@
 body {
   font-family: "Graphik", sans-serif;
   transition: var(--transition-regular);
+  overflow-x: hidden;
 }
 button {
   border: none;
